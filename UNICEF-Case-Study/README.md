@@ -12,7 +12,7 @@ Predict what drives engagement (reactions, comments, and shares) in UNICEF NL’
 
 **Highlights**  
 - **Factual > Emotional:** factual framing drives higher engagement.  
-- **Negative framing ↑:** especially effective for shares.  
+- **Negative framing increases engagement:** especially effective for shares.  
 - **Warm colors perform better**, while medium luminance underperforms.  
 - **Organic > Sponsored:** sponsored posts reduce engagement.  
 - **Momentum effect:** previous-week engagement strongly predicts next-week results.
