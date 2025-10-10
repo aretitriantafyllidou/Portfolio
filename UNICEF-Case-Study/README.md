@@ -1,7 +1,7 @@
-# UNICEF NL — Social Media Engagement (Case Study)
+# Social Media Engagement Analysis for UNICEF NL
 
 **Goal**  
-Predict what drives engagement (reactions, comments, and shares) in UNICEF NL’s social media posts by combining text and image analytics with machine learning.
+This project analyzes 1,645 social media posts from UNICEF Netherlands to identify the key factors driving audience engagement by combining text and image analytics with machine learning. We provide actionable insights to optimize content strategy across Facebook and Instagram
 
 ---
 
