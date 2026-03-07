@@ -3,7 +3,12 @@
 #  Hi, I'm Areti 👋 
 
 Welcome to my portfolio!
-I’m a recent graduate in Data Science and Marketing Analytics, based in the Netherlands. I am passionate about working with data and how information can provide interesting discoveries to help us improve and grow. Here you’ll find a selection of data science projects I have worked on. 
+I’m a recent graduate in Data Science and Marketing Analytics, based in the Netherlands.
+
+Through my academic and project experience, I have worked with programming languages and analytical tools such as Python, R, SQL, Power BI, and Tableau, applying them to data analysis, machine learning, marketing analytics and data visualization. I also enjoy continuously learning new tools and concepts and expanding my skills through hands-on projects.
+
+This portfolio presents some of the projects I have worked on and shows my interest in data science and analytics. 
+
 
 
 ---
