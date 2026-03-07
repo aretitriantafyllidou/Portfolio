@@ -25,7 +25,7 @@ I’m a recent graduate in Data Science and Marketing Analytics, based in the Ne
 
 ### Optimizing Social Media Engagement for UNICEF Netherlands
 
-**Title:** The impact of ESG advertising on consumer perception and brand trust  
+**Title:** UNICEF NL, Social media analysis
 
 **Summary:**  In this two month collaborative project, our team worked directly with UNICEF Netherlands analyzing 1,645 real social media posts from Facebook, Instagram and Tik Tok to capture patterns that drive the most enagement. We combined text analytics, sentiment analysis, image analysis using Google Vision API, and machine learning (Random Forest models) to determine which content characteristics maximize reactions, comments, and shares. Our findings and strategic recommendations were presented directly to UNICEF NL's marketing team to optimize their social media strategy.
 
